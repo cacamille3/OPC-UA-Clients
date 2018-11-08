@@ -3,7 +3,7 @@ List of commercial and open source OPC UA Clients
 
 | Company                | Client Name            | Platform     |  Download link                  | Last version       |
 |------------------------|------------------------|--------------|---------------------------------|--------------------|
-| Unified Automation     | UA Expert              | Windows      | http://bit.ly/UaExpert          | 1.4.4 (2017-02-28) |
+| Unified Automation     | UA Expert              | Windows      | http://bit.ly/UaExpert          | 1.5.0 (2018-10-10) |
 | Unified Automation     | UA Expert Mobile       | Android      | http://bit.ly/UaExpertMobile    | 1.0.0 (2015-12-14) |
 | Prosys                 | OPC UA Client          | All (java)   | http://bit.ly/ProsysOpcUaClient | 3.1.4 (2018-06-14) |
 | Softing                | DataFeed OPC UA Client | Windows      | http://bit.ly/SoftingOpcUa      | 1.4.4 (???)        |
