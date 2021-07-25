@@ -1,4 +1,4 @@
-# OPCUA Clients
+# OPC UA Clients
 List of commercial and open source OPC UA Clients
 
 | Company                | Client Name            | Platform     |  Download link                  | Last version        |
