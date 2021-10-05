@@ -9,4 +9,4 @@ List of commercial and open source OPC UA Clients
 | Softing                | DataFeed OPC UA Client | Windows      | http://bit.ly/SoftingOpcUa      | 2.0.0  (2018-07-31) |
 | Free OPC UA            | OPC UA Client GUI      | All (Python) | http://bit.ly/FreeOpcUA         | 0.8.0  (2018-06-20) |
 | Kepware                | OPC UA Client Driver   | Windows      | http://bit.ly/KepwareOpcUa      | ???                 |
-| Node OPC UA            | OPC UA Commander       | All (JS)     | http://bit.ly/NodeOpcUaClient   | 0.11.0 (2021-02-22) |
+| Node OPC UA            | OPC UA Commander       | All (JS)     | http://bit.ly/NodeOpcUaClient   | 0.12.1 (2021-04-11) |
