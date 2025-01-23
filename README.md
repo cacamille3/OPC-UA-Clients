@@ -9,3 +9,4 @@ List of commercial and open source OPC UA Clients
 | Free OPC UA        | OPC UA Client GUI    | All (Python) | Free        | http://bit.ly/FreeOpcUA         | 0.8.4  (2022-01-31) |
 | Kepware            | OPC UA Client Driver | Windows      | Commercial  | http://bit.ly/KepwareOpcUa      | ???                 |
 | Node OPC UA        | OPC UA Commander     | All (JS)     | Open-source | http://bit.ly/NodeOpcUaClient   | 0.39.0 (2024-08-09) |
+| Matrikon           | OPC UA Explorer      | Windows/Linux| Free        | http://bit.ly/Matrikon          | 2.3.2  (2024-10-07) |
