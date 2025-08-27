@@ -17,4 +17,3 @@ License:
 - 🆓: Free
 - 💰: Commercial
 - 🛠️: Open-source
-2023-11-20
