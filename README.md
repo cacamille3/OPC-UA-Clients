@@ -3,7 +3,7 @@ List of commercial and open source OPC UA Clients
 
 | Company            | Client Name          | Platform     | Li.| ECC |  Download link                  | Last version        |
 |--------------------|----------------------|--------------|----|---- |---------------------------------|---------------------|
-| Unified Automation | UA Expert            | Windows/Linux| 🆓 | ❌ | http://bit.ly/UaExpert          | 1.7.2  (2025-03-31) |
+| Unified Automation | UA Expert            | Windows/Linux| 🆓 | ❌ | http://bit.ly/UaExpert          | 2.0.0  (2025-12-18) |
 | Prosys             | OPC UA Browser       | All (java)   | 🆓 | ❌ | http://bit.ly/ProsysOpcUaClient | 5.0.0  (2023-11-06) |
 | Softing            | OPC UA Demo-Client   | Windows      | 🆓 | ✅ | http://bit.ly/SoftingOpcUa      | 2.40.0 (2025-04-01) |
 | Free OPC UA        | OPC UA Client GUI    | All (Python) | 🆓 | ❌ | http://bit.ly/FreeOpcUA         | 0.8.4  (2022-01-31) |
